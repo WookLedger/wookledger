@@ -1,0 +1,14 @@
+{
+  "name": "wookledger",
+  "owner": { "name": "WookLedger" },
+  "description": "WookLedger: durable, verified, crash-proof state for AI coding agents.",
+  "plugins": [
+    {
+      "name": "wookledger",
+      "source": "./plugins/wookledger",
+      "description": "Durable, verified state for AI coding agents. Crash-proof resume, zero drift caught at the line, and a conservative savings receipt on your own tokens.",
+      "version": "0.1.0",
+      "author": { "name": "WookLedger" }
+    }
+  ]
+}
