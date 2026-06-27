@@ -1,0 +1,7 @@
+{
+  "name": "wookledger",
+  "description": "Read tools that let your agent query a WookLedger build while it works: where the build stands, integrity with drift caught at the line, the tamper-evident audit chain, verification receipts, and a conservative savings receipt on your own tokens. The full wook CLI runs autonomous, crash-proof, drift-checked builds; get it at wookledger.com.",
+  "version": "0.1.0",
+  "author": { "name": "WookLedger" },
+  "homepage": "https://wookledger.com"
+}
